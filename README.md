@@ -58,7 +58,8 @@ Use the provided interface to upload an image of a dog.
 View results:
 The application will display the predicted dog breed.
 
-Contributors
+
+#Contributors
 This project was developed by:
 
 Suryansh Sapehia (23BAI11228)
