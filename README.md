@@ -19,7 +19,7 @@ Welcome to the **Dog Breed Analyzer** – your intelligent companion for identif
 
 ## 🛠️ How It Works
 
-The Dog Breed Analyzer is powered by a **deep learning model** trained on a vast dataset of dog images. When you upload an image:
+The Dog Breed Analyzer is powered by a **transfer learning model** trained on a vast dataset of dog images. When you upload an image:
 1. The model processes the image.
 2. Extracts features using a CNN backbone.
 3. Returns the most probable dog breed.
@@ -48,7 +48,7 @@ Install dependencies:
 # Example:
 # pip install -r requirements.txt
 
-If there isn't a requirements.txt file, you might need to install common libraries for machine learning, such as:
+If there isn't a requirements.txt file, you might need to install common libraries for deep learning, such as:
 
 tensorflow or pytorch
 
